@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TstProjProject
+  gitServerName: SIQA_Psur
+  gitUrl: https://github.com/prabhakarsag/TstProjProject
+  gitUsername: prabhakarsag
+  gitBranch: main
